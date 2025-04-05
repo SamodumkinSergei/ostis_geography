@@ -1,9 +1,9 @@
 [submodule "problem-solver/cxx/sc-machine"]
 	path = problem-solver/cxx/sc-machine
-	url = https://github.com/ostis-ai/sc-machine
+	url = https://github.com/ostis-ai/sc-machine.git
 [submodule "problem-solver/py/py-sc-kpm"]
 	path = problem-solver/py/py-sc-kpm
-	url = https://github.com/ostis-ai/py-sc-kpm
+	url = https://github.com/ostis-ai/py-sc-kpm.git
 [submodule "sc-web"]
 	path = sc-web
 	url = https://github.com/ostis-ai/sc-web.git

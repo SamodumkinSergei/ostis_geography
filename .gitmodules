@@ -10,3 +10,7 @@
 [submodule "ims_kb"]
 	path = kb/ims.ostis.kb
 	url = https://github.com/ostis-ai/ims/ostis.kb.git
+[submodule "kb/ims.ostis.kb"]
+    path = kb/ims.ostis.kb
+    url = https://github.com/ostis-ai/ims.ostis.kb.git
+
